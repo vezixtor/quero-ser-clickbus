@@ -40,7 +40,13 @@ mvn spring-boot:run
 
 ## Executing requests
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/687b9a56eb5b35eb6015)
+[swagger](https://clickbus-challenge.herokuapp.com/swagger-ui.html) - Api Documentation
+
+
+Or
+
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/f7a9aab8c91811bfb276)
 
 ##  Testing
 
